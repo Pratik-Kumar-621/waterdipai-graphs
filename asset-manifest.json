@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.233567f1.css",
-    "main.js": "/react-gh-pages/static/js/main.e39fb4e1.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.233567f1.css.map": "/react-gh-pages/static/css/main.233567f1.css.map",
-    "main.e39fb4e1.js.map": "/react-gh-pages/static/js/main.e39fb4e1.js.map"
+    "main.css": "/waterdipai-graphs/static/css/main.4a7ac001.css",
+    "main.js": "/waterdipai-graphs/static/js/main.8cdbbe04.js",
+    "index.html": "/waterdipai-graphs/index.html",
+    "main.4a7ac001.css.map": "/waterdipai-graphs/static/css/main.4a7ac001.css.map",
+    "main.8cdbbe04.js.map": "/waterdipai-graphs/static/js/main.8cdbbe04.js.map"
   },
   "entrypoints": [
-    "static/css/main.233567f1.css",
-    "static/js/main.e39fb4e1.js"
+    "static/css/main.4a7ac001.css",
+    "static/js/main.8cdbbe04.js"
   ]
 }
