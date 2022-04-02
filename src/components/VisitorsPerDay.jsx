@@ -70,7 +70,13 @@ const VisitorsPerDay = () => {
           Filter
         </Button>
       </form>
-      <Chart options={options} series={series} type="line" width="100%" />
+      <Chart
+        options={options}
+        series={series}
+        type="line"
+        width="100%"
+        className="height"
+      />
     </div>
   );
 };
